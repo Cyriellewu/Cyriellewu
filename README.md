@@ -5,7 +5,7 @@ M.S. Computer Science (Machine Learning) at Columbia, graduating December 2026. 
 **Research**
 - **Explainable Dynamic GNNs for Predictive Maintenance in Vehicle Chassis Systems.** First author, ACML 2025 (PMLR 304). [paper](https://proceedings.mlr.press/v304/you25a.html) · [repo](https://github.com/Cyriellewu/explainable-gnn-predictive-maintenance)
 - **FKGE-OSC: Fuzzy-Enhanced Uncertain Knowledge Graph Embeddings.** First author, manuscript. [repo](https://github.com/Cyriellewu/fuzzy-uncertain-kg-embeddings)
-- Research Assistant, Columbia Business School (Summer 2026): entity resolution over billion-row finance datasets
+- Research Data Analyst, Columbia Business School (Summer 2026): entity resolution over billion-row finance datasets
 
 **Selected projects**
 - [llm-lab](https://github.com/Cyriellewu/llm-lab): local-first, DuckDB-native workbench for evaluating LLMs and agents
